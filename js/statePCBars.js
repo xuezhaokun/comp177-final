@@ -34,7 +34,7 @@ d3.tsv("data/stateYearMetric.tsv", function (data) {
 
       var barsLegend = barsChart.addLegend(60, 10, 510, 20, "right");
       
-
+      barsSeries.addOrderRule(["Production", "Consumption"]);
       barsChart.draw(800);
       barsChartY.shapes.selectAll("*").style("font-size", "10px");
       barsChartY.titleShape[0][0].innerHTML = "State";

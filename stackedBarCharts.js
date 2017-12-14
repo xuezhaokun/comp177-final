@@ -79,7 +79,8 @@ var stackedY = d3.scale.linear()
     .domain([0, stakcedYStackMax])
     .range([height, 0]);
 
-var stackedColors = ["#fbc287", "#9bc0da", "#FDF195", "#C1E68E", "#D6EFD2", "#A5DCD2","#FA9790", "#C997C8"];
+//var stackedColors = ["#fbc287", "#9bc0da", "#fdf195", "#c1e68e", "#d6efd2", "#a5dcd2","#fa9790", "#c997c8"];
+var stackedColors = ["#b2182b", "#d6604d", "#f4a582", "#fddbc7", "#d1e5f0", "#92c5de","#4393c3", "#2166ac"];
 
 var stackedXAxis = d3.svg.axis()
     .scale(stackedX)

@@ -1,0 +1,181 @@
+/****************/
+/* Body Styling */
+/****************/
+
+body {
+  width: 1200px;
+  margin: 0 auto;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+h1, h2 {
+  margin-top: 50px;
+}
+
+h5 {
+  margin-bottom: 20px;
+  color: gray;
+  margin-top: -10px;
+}
+
+/*.title {
+  margin-top: 50x;
+  
+}
+*/
+h1,h2,h3, h5 {
+  text-align: center;
+}
+
+
+/*
+circle {
+  fill: #4682b4;
+}
+*/
+
+/*.mono {
+  font-family: monospace;
+}
+
+.scroll-reminder
+{
+    position: fixed;
+    top: 93%;
+    left: 2%;
+    color: gray;
+}
+
+.data-disclaimer
+{
+    position: fixed;
+    top: 95%;
+    right: 2%;
+    color: gray;
+    font-size: 10px;
+}*/
+
+/****************/
+/* Layout Magic */
+/****************/
+
+
+#container1,#container2,#container3,#container4,#container5,#container6 {
+  position: relative;
+  width: 100%;
+  overflow: auto;
+}
+
+#sections1,#sections2,#sections3,#sections4,#sections5,#sections6 {
+  width: 340px;
+  float: left;
+}
+
+#sections1 > div,#sections2 > div,#sections3 > div, #sections4 > div, #sections5 > div, #sections6 > div {
+  background: #fff;
+  opacity: .2;
+  margin-bottom: 500px;
+  margin-top: 120px;
+}
+
+#sections1 > div.graph-scroll-active,#sections2 > div.graph-scroll-active,#sections3 > div.graph-scroll-active, #sections4 > div.graph-scroll-active, #sections5 > div.graph-scroll-active, #sections6 > div.graph-scroll-active {
+  opacity: 1;
+}
+
+
+#graph1,#graph2,#graph3,#graph4,#graph5,#graph6 {
+  float: left;
+  margin-left: 40px;
+}
+
+#graph1.graph-scroll-fixed,#graph2.graph-scroll-fixed,#graph3.graph-scroll-fixed, #graph4.graph-scroll-fixed, #graph5.graph-scroll-fixed, #graph6.graph-scroll-fixed {
+  position: fixed;
+  top: 0;
+  margin-left: 380px;
+}
+
+#graph1.graph-scroll-below,#graph2.graph-scroll-below,#graph3.graph-scroll-below, #graph4.graph-scroll-below, #graph5.graph-scroll-below, #graph6.graph-scroll-below {
+  position: absolute;
+  bottom: 0;
+  margin-left: 380px;
+}
+
+#parallelBackground path {
+  fill: none;
+  stroke: none;
+  stroke-width: 20px;
+  pointer-events: stroke;
+}
+
+#parallelForeground path {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+#parallelAxis #parallelTitle {
+  font-size: 11px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+#parallelAxis line,
+#parallelAxis path {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+/*#parallelLabel {
+  -webkit-transition: fill 125ms linear;
+}
+
+#parallelLabel.active #parallelLabel:not(.inactive) {
+  font-weight: bold;
+}
+
+#parallelLabel.inactive {
+  fill: #ccc;
+}*/
+
+#parallelLabel{
+  font-size: 6px;
+
+}
+#parallelForeground path.inactive {
+  stroke: #ccc;
+  stroke-opacity: .5;
+  stroke-width: 1px;
+}
+
+
+#linePath { 
+    stroke: steelblue;
+    stroke-width: 2;
+    fill: none;
+}
+.LineAxis path,
+.LineAxis line {
+    fill: none;
+    stroke: grey;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+
+.lsAxis path,
+.lsAxis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.lsX.lsAxis path {
+  display: none;
+}
+
+.lsLine {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+

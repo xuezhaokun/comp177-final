@@ -10,7 +10,6 @@ d3.tsv("data/usDivision.tsv", function (data) {
   var lollipopChart = new dimple.chart(lollipopSvg, data);
   lollipopChart.setBounds(60, 30, 500, 330)
   var lollipopChartx = lollipopChart.addCategoryAxis("x", "Year");
-  //lollipopChartx.addOrderRule("Date");
   lollipopChart.addMeasureAxis("y", "TotalC");
   lollipopChart.addMeasureAxis("p", "TotalC");
   var lollipopChartpies = lollipopChart.addSeries("Division", dimple.plot.pie);

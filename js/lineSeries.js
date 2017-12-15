@@ -64,7 +64,7 @@ d3.tsv("data/lineSeriesTotal.tsv", function (data) {
       var lsLines = lsChart.addSeries("Energy", dimple.plot.line);
       
       var lsLegend = lsChart.addLegend(60, 10, 500, 20, "right");
-      lsChart.draw(800);
+      lsChart.draw(200);
 
 
       lsChart.legends = [];
@@ -104,7 +104,7 @@ d3.tsv("data/lineSeriesTotal.tsv", function (data) {
           
           // Passing a duration parameter makes the chart animate. Without
           // it there is no transition
-          lsChart.draw(800);
+          lsChart.draw(200);
         });
     });
 });

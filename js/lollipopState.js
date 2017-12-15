@@ -11,12 +11,14 @@ d3.tsv("data/usDivision.tsv", function (data) {
   lollipopChart.setBounds(60, 30, 500, 330)
   var lollipopChartx = lollipopChart.addCategoryAxis("x", "Year");
  
-  lollipopChart.addMeasureAxis("y", "Total Consumption");
+  var lollipopChartY = lollipopChart.addMeasureAxis("y", "Total Consumption");
   lollipopChart.addMeasureAxis("p", "Total Consumption");
   var lollipopChartpies = lollipopChart.addSeries("Division", dimple.plot.pie);
   lollipopChartpies.radius = 35;
   lollipopChart.addLegend(350, 200, 360, 60, "left");
   lollipopChart.draw();
+
+  lollipopChartY.titleShape[0][0].innerHTML = "Consumption (billion BTU)";
   var gs = graphScroll()
     .container(d3.select('#container3'))
     .graph(d3.selectAll('#graph3'))

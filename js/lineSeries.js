@@ -10,8 +10,7 @@ d3.tsv("data/lineSeriesTotal.tsv", function (data) {
 
   lsChart.setBounds(60, 30, 680, 330);
   var lsX = lsChart.addCategoryAxis("x", "Year");
-  lsChart.addMeasureAxis("y", "Consumption");
-  
+  var lsY = lsChart.addMeasureAxis("y", "Consumption");
   lsChart.data = data;
 
   lsSvg.selectAll("title_text")
@@ -66,6 +65,7 @@ d3.tsv("data/lineSeriesTotal.tsv", function (data) {
       var lsLegend = lsChart.addLegend(60, 10, 500, 20, "right");
       lsChart.draw(200);
 
+      lsY.titleShape[0][0].innerHTML = "Consumption (billion BTU)";
 
       lsChart.legends = [];
       var curData = lsChart.data;
@@ -105,6 +105,8 @@ d3.tsv("data/lineSeriesTotal.tsv", function (data) {
           // Passing a duration parameter makes the chart animate. Without
           // it there is no transition
           lsChart.draw(200);
+
+          lsY.titleShape[0][0].innerHTML = "Consumption (billion BTU)";
         });
     });
 });

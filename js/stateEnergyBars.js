@@ -35,7 +35,7 @@ d3.tsv("data/stateYearEnergy.tsv", function (data) {
       stateEnergyBarsChart.draw(800);
       stateEnergyBarsChartY.shapes.selectAll("*").style("font-size", "10px");
       stateEnergyBarsChartY.titleShape[0][0].innerHTML = "State";
-      stateEnergyBarsChartX.titleShape[0][0].innerHTML = 2010 + i + " Year " + "Energy Consumption";
+      stateEnergyBarsChartX.titleShape[0][0].innerHTML = 2010 + i + " Year " + "Energy Consumption (billion BTU)";
     });
 
 

@@ -38,7 +38,7 @@ d3.tsv("data/stateYearMetric.tsv", function (data) {
       barsChart.draw(800);
       barsChartY.shapes.selectAll("*").style("font-size", "10px");
       barsChartY.titleShape[0][0].innerHTML = "State";
-      barsChartX.titleShape[0][0].innerHTML = 2010 + i + " Year " + "Consumption/Production";
+      barsChartX.titleShape[0][0].innerHTML = 2010 + i + " Year " + "Consumption V.S. Production (billion BTU)";
     });
 
 

@@ -1,7 +1,3 @@
-/****************/
-/* Body Styling */
-/****************/
-
 body {
   width: 1200px;
   margin: 0 auto;
@@ -18,47 +14,9 @@ h5 {
   margin-top: -10px;
 }
 
-/*.title {
-  margin-top: 50x;
-  
-}
-*/
 h1,h2,h3, h5 {
   text-align: center;
 }
-
-
-/*
-circle {
-  fill: #4682b4;
-}
-*/
-
-/*.mono {
-  font-family: monospace;
-}
-
-.scroll-reminder
-{
-    position: fixed;
-    top: 93%;
-    left: 2%;
-    color: gray;
-}
-
-.data-disclaimer
-{
-    position: fixed;
-    top: 95%;
-    right: 2%;
-    color: gray;
-    font-size: 10px;
-}*/
-
-/****************/
-/* Layout Magic */
-/****************/
-
 
 #container1,#container2,#container3,#container4,#container5,#container6,#container7 {
   position: relative;
@@ -179,3 +137,7 @@ circle {
   stroke-width: 1.5px;
 }
 
+#conclusion {
+  width:80%;
+  margin-top: -250px;
+}

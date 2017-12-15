@@ -10,9 +10,9 @@ d3.tsv("data/usDivision.tsv", function (data) {
   var lollipopChart = new dimple.chart(lollipopSvg, data);
   lollipopChart.setBounds(60, 30, 500, 330)
   var lollipopChartx = lollipopChart.addCategoryAxis("x", "Year");
-  //lollipopChartx.addOrderRule("Date");
-  lollipopChart.addMeasureAxis("y", "TotalC");
-  lollipopChart.addMeasureAxis("p", "TotalC");
+ 
+  lollipopChart.addMeasureAxis("y", "Total Consumption");
+  lollipopChart.addMeasureAxis("p", "Total Consumption");
   var lollipopChartpies = lollipopChart.addSeries("Division", dimple.plot.pie);
   lollipopChartpies.radius = 35;
   lollipopChart.addLegend(350, 200, 360, 60, "left");
@@ -22,6 +22,5 @@ d3.tsv("data/usDivision.tsv", function (data) {
     .graph(d3.selectAll('#graph3'))
     .sections(d3.selectAll('#sections3 > div'))
     .on('active', function(i){ 
-      console.log(i + 'th section active') 
   });
 });

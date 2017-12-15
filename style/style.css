@@ -60,41 +60,41 @@ circle {
 /****************/
 
 
-#container1,#container2,#container3,#container4,#container5,#container6 {
+#container1,#container2,#container3,#container4,#container5,#container6,#container7 {
   position: relative;
   width: 100%;
   overflow: auto;
 }
 
-#sections1,#sections2,#sections3,#sections4,#sections5,#sections6 {
+#sections1,#sections2,#sections3,#sections4,#sections5,#sections6,#sections7 {
   width: 340px;
   float: left;
 }
 
-#sections1 > div,#sections2 > div,#sections3 > div, #sections4 > div, #sections5 > div, #sections6 > div {
+#sections1 > div,#sections2 > div,#sections3 > div, #sections4 > div, #sections5 > div, #sections6 > div, #sections7 > div {
   background: #fff;
   opacity: .2;
   margin-bottom: 500px;
   margin-top: 120px;
 }
 
-#sections1 > div.graph-scroll-active,#sections2 > div.graph-scroll-active,#sections3 > div.graph-scroll-active, #sections4 > div.graph-scroll-active, #sections5 > div.graph-scroll-active, #sections6 > div.graph-scroll-active {
+#sections1 > div.graph-scroll-active,#sections2 > div.graph-scroll-active,#sections3 > div.graph-scroll-active, #sections4 > div.graph-scroll-active, #sections5 > div.graph-scroll-active, #sections6 > div.graph-scroll-active, #sections7 > div.graph-scroll-active {
   opacity: 1;
 }
 
 
-#graph1,#graph2,#graph3,#graph4,#graph5,#graph6 {
+#graph1,#graph2,#graph3,#graph4,#graph5,#graph6,#graph7 {
   float: left;
   margin-left: 40px;
 }
 
-#graph1.graph-scroll-fixed,#graph2.graph-scroll-fixed,#graph3.graph-scroll-fixed, #graph4.graph-scroll-fixed, #graph5.graph-scroll-fixed, #graph6.graph-scroll-fixed {
+#graph1.graph-scroll-fixed,#graph2.graph-scroll-fixed,#graph3.graph-scroll-fixed, #graph4.graph-scroll-fixed, #graph5.graph-scroll-fixed, #graph6.graph-scroll-fixed, #graph7.graph-scroll-fixed {
   position: fixed;
   top: 0;
   margin-left: 380px;
 }
 
-#graph1.graph-scroll-below,#graph2.graph-scroll-below,#graph3.graph-scroll-below, #graph4.graph-scroll-below, #graph5.graph-scroll-below, #graph6.graph-scroll-below {
+#graph1.graph-scroll-below,#graph2.graph-scroll-below,#graph3.graph-scroll-below, #graph4.graph-scroll-below, #graph5.graph-scroll-below, #graph6.graph-scroll-below, #graph7.graph-scroll-below {
   position: absolute;
   bottom: 0;
   margin-left: 380px;

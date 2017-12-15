@@ -31,7 +31,7 @@ d3.tsv("data/lineSeriesTotal.tsv", function (data) {
     .graph(d3.selectAll('#graph2'))
     .sections(d3.selectAll('#sections2 > div'))
     .on('active', function(i){
-      lsChart.svg.selectAll('.legend').remove();
+      lsChart.svg.selectAll('.dimple-legend').remove();
 
       lsChart.series.forEach(function(series){
           series.shapes.remove();

@@ -1,0 +1,511 @@
+StateCodes	TotalC	Metric	Year	Division
+AL	1931522	Consumption	2010	East South Central
+AK	653221	Consumption	2010	Pacific
+AZ	1383531	Consumption	2010	Mountain
+AR	1120632	Consumption	2010	West South Central
+CA	7760629	Consumption	2010	Pacific
+CO	1513547	Consumption	2010	Mountain
+CT	764970	Consumption	2010	New England
+DE	250212	Consumption	2010	South Atlantic
+FL	4282673	Consumption	2010	South Atlantic
+GA	3100144	Consumption	2010	South Atlantic
+HI	278046	Consumption	2010	Pacific
+ID	516120	Consumption	2010	Mountain
+IL	3955091	Consumption	2010	East North Central
+IN	2863396	Consumption	2010	East North Central
+IA	1499729	Consumption	2010	West North Central
+KS	1117631	Consumption	2010	West North Central
+KY	1978527	Consumption	2010	East South Central
+LA	4385758	Consumption	2010	West South Central
+ME	415065	Consumption	2010	New England
+MD	1464503	Consumption	2010	South Atlantic
+MA	1416119	Consumption	2010	New England
+MI	2753536	Consumption	2010	East North Central
+MN	1857095	Consumption	2010	West North Central
+MS	1177620	Consumption	2010	East South Central
+MO	1910500	Consumption	2010	West North Central
+MT	400855	Consumption	2010	Mountain
+NE	860741	Consumption	2010	West North Central
+NV	645604	Consumption	2010	Mountain
+NH	294473	Consumption	2010	New England
+NJ	2395713	Consumption	2010	Middle Atlantic
+NM	649962	Consumption	2010	Mountain
+NY	3723729	Consumption	2010	Middle Atlantic
+NC	2685333	Consumption	2010	South Atlantic
+ND	476072	Consumption	2010	West North Central
+OH	3824933	Consumption	2010	East North Central
+OK	1579910	Consumption	2010	West South Central
+OR	975067	Consumption	2010	Pacific
+PA	3752280	Consumption	2010	Middle Atlantic
+RI	195314	Consumption	2010	New England
+SC	1643912	Consumption	2010	South Atlantic
+SD	378514	Consumption	2010	West North Central
+TN	2247273	Consumption	2010	East South Central
+TX	11687521	Consumption	2010	West South Central
+UT	756012	Consumption	2010	Mountain
+VT	153697	Consumption	2010	New England
+VA	2483360	Consumption	2010	South Atlantic
+WA	2031428	Consumption	2010	Pacific
+WV	738821	Consumption	2010	South Atlantic
+WI	1791199	Consumption	2010	East North Central
+WY	540122	Consumption	2010	Mountain
+DC	190529	Consumption	2010	South Atlantic
+AL	1419613	Production	2010	East South Central
+AK	1738207	Production	2010	Pacific
+AZ	580948	Production	2010	Mountain
+AR	1247709	Production	2010	West South Central
+CA	2532205	Production	2010	Pacific
+CO	2561459	Production	2010	Mountain
+CT	203188	Production	2010	New England
+DE	3575	Production	2010	South Atlantic
+FL	510201	Production	2010	South Atlantic
+GA	561796	Production	2010	South Atlantic
+HI	16245	Production	2010	Pacific
+ID	130652	Production	2010	Mountain
+IL	2090939	Production	2010	East North Central
+IN	987568	Production	2010	East North Central
+IA	673102	Production	2010	West North Central
+KS	812830	Production	2010	West North Central
+KY	2781466	Production	2010	East South Central
+LA	3170742	Production	2010	West South Central
+ME	151940	Production	2010	New England
+MD	250812	Production	2010	South Atlantic
+MA	108868	Production	2010	New England
+MI	626639	Production	2010	East North Central
+MN	429062	Production	2010	West North Central
+MS	448713	Production	2010	East South Central
+MO	198297	Production	2010	West North Central
+MT	1148154	Production	2010	Mountain
+NE	399822	Production	2010	West North Central
+NV	51846	Production	2010	Mountain
+NH	156829	Production	2010	New England
+NJ	376845	Production	2010	Middle Atlantic
+NM	2255073	Production	2010	Mountain
+NY	836703	Production	2010	Middle Atlantic
+NC	576162	Production	2010	South Atlantic
+ND	1253749	Production	2010	West North Central
+OH	1032440	Production	2010	East North Central
+OK	2576077	Production	2010	West South Central
+OR	393763	Production	2010	Pacific
+PA	3064745	Production	2010	Middle Atlantic
+RI	3399	Production	2010	New England
+SC	649978	Production	2010	South Atlantic
+SD	225387	Production	2010	West North Central
+TN	505731	Production	2010	East South Central
+TX	11412134	Production	2010	West South Central
+UT	1073063	Production	2010	Mountain
+VT	80143	Production	2010	New England
+VA	1096973	Production	2010	South Atlantic
+WA	907957	Production	2010	Pacific
+WV	3699729	Production	2010	South Atlantic
+WI	329441	Production	2010	East North Central
+WY	10536570	Production	2010	Mountain
+DC	95	Production	2010	South Atlantic
+AL	1905207	Consumption	2011	East South Central
+AK	653637	Consumption	2011	Pacific
+AZ	1424944	Consumption	2011	Mountain
+AR	1122544	Consumption	2011	West South Central
+CA	7777115	Consumption	2011	Pacific
+CO	1470445	Consumption	2011	Mountain
+CT	739130	Consumption	2011	New England
+DE	272568	Consumption	2011	South Atlantic
+FL	4141711	Consumption	2011	South Atlantic
+GA	2982837	Consumption	2011	South Atlantic
+HI	287113	Consumption	2011	Pacific
+ID	516978	Consumption	2011	Mountain
+IL	3937616	Consumption	2011	East North Central
+IN	2847188	Consumption	2011	East North Central
+IA	1498973	Consumption	2011	West North Central
+KS	1104843	Consumption	2011	West North Central
+KY	1903208	Consumption	2011	East South Central
+LA	4388867	Consumption	2011	West South Central
+ME	413893	Consumption	2011	New England
+MD	1410012	Consumption	2011	South Atlantic
+MA	1397164	Consumption	2011	New England
+MI	2785212	Consumption	2011	East North Central
+MN	1850749	Consumption	2011	West North Central
+MS	1155456	Consumption	2011	East South Central
+MO	1856590	Consumption	2011	West North Central
+MT	402355	Consumption	2011	Mountain
+NE	862675	Consumption	2011	West North Central
+NV	632655	Consumption	2011	Mountain
+NH	292979	Consumption	2011	New England
+NJ	2411816	Consumption	2011	Middle Atlantic
+NM	668675	Consumption	2011	Mountain
+NY	3611091	Consumption	2011	Middle Atlantic
+NC	2558792	Consumption	2011	South Atlantic
+ND	528508	Consumption	2011	West North Central
+OH	3792585	Consumption	2011	East North Central
+OK	1585212	Consumption	2011	West South Central
+OR	1002476	Consumption	2011	Pacific
+PA	3725014	Consumption	2011	Middle Atlantic
+RI	185731	Consumption	2011	New England
+SC	1601881	Consumption	2011	South Atlantic
+SD	378470	Consumption	2011	West North Central
+TN	2195401	Consumption	2011	East South Central
+TX	11906249	Consumption	2011	West South Central
+UT	794058	Consumption	2011	Mountain
+VT	150475	Consumption	2011	New England
+VA	2380922	Consumption	2011	South Atlantic
+WA	2059630	Consumption	2011	Pacific
+WV	726341	Consumption	2011	South Atlantic
+WI	1778018	Consumption	2011	East North Central
+WY	556548	Consumption	2011	Mountain
+DC	183806	Consumption	2011	South Atlantic
+AL	1400108	Production	2011	East South Central
+AK	1641980	Production	2011	Pacific
+AZ	617956	Production	2011	Mountain
+AR	1391190	Production	2011	West South Central
+CA	2634789	Production	2011	Pacific
+CO	2750097	Production	2011	Mountain
+CT	195792	Production	2011	New England
+DE	3976	Production	2011	South Atlantic
+FL	500907	Production	2011	South Atlantic
+GA	549483	Production	2011	South Atlantic
+HI	18378	Production	2011	Pacific
+ID	176717	Production	2011	Mountain
+IL	2189423	Production	2011	East North Central
+IN	1062319	Production	2011	East North Central
+IA	689146	Production	2011	West North Central
+KS	781704	Production	2011	West North Central
+KY	2840858	Production	2011	East South Central
+LA	3972994	Production	2011	West South Central
+ME	154764	Production	2011	New England
+MD	272882	Production	2011	South Atlantic
+MA	103058	Production	2011	New England
+MI	680857	Production	2011	East North Central
+MN	425422	Production	2011	West North Central
+MS	441341	Production	2011	East South Central
+MO	197714	Production	2011	West North Central
+MT	1104165	Production	2011	Mountain
+NE	390808	Production	2011	West North Central
+NV	53807	Production	2011	Mountain
+NH	131919	Production	2011	New England
+NJ	390931	Production	2011	Middle Atlantic
+NM	2260681	Production	2011	Mountain
+NY	879395	Production	2011	Middle Atlantic
+NC	572796	Production	2011	South Atlantic
+ND	1518406	Production	2011	West North Central
+OH	1067943	Production	2011	East North Central
+OK	2704301	Production	2011	West South Central
+OR	513597	Production	2011	Pacific
+PA	3870671	Production	2011	Middle Atlantic
+RI	3419	Production	2011	New England
+SC	661898	Production	2011	South Atlantic
+SD	248370	Production	2011	West North Central
+TN	506701	Production	2011	East South Central
+TX	12571450	Production	2011	West South Central
+UT	1128821	Production	2011	Mountain
+VT	80677	Production	2011	New England
+VA	1085234	Production	2011	South Atlantic
+WA	1101186	Production	2011	Pacific
+WV	3820203	Production	2011	South Atlantic
+WI	312552	Production	2011	East North Central
+WY	10353148	Production	2011	Mountain
+DC	271	Production	2011	South Atlantic
+AL	1879716	Consumption	2012	East South Central
+AK	649341	Consumption	2012	Pacific
+AZ	1395839	Consumption	2012	Mountain
+AR	1067642	Consumption	2012	West South Central
+CA	7564063	Consumption	2012	Pacific
+CO	1440781	Consumption	2012	Mountain
+CT	725019	Consumption	2012	New England
+DE	273728	Consumption	2012	South Atlantic
+FL	4029903	Consumption	2012	South Atlantic
+GA	2767491	Consumption	2012	South Atlantic
+HI	280171	Consumption	2012	Pacific
+ID	510869	Consumption	2012	Mountain
+IL	3820547	Consumption	2012	East North Central
+IN	2770158	Consumption	2012	East North Central
+IA	1440053	Consumption	2012	West North Central
+KS	1075435	Consumption	2012	West North Central
+KY	1868483	Consumption	2012	East South Central
+LA	4255161	Consumption	2012	West South Central
+ME	399670	Consumption	2012	New England
+MD	1368600	Consumption	2012	South Atlantic
+MA	1363282	Consumption	2012	New England
+MI	2687926	Consumption	2012	East North Central
+MN	1816866	Consumption	2012	West North Central
+MS	1143099	Consumption	2012	East South Central
+MO	1781978	Consumption	2012	West North Central
+MT	395724	Consumption	2012	Mountain
+NE	852984	Consumption	2012	West North Central
+NV	639190	Consumption	2012	Mountain
+NH	284490	Consumption	2012	New England
+NJ	2241207	Consumption	2012	Middle Atlantic
+NM	666540	Consumption	2012	Mountain
+NY	3503309	Consumption	2012	Middle Atlantic
+NC	2481060	Consumption	2012	South Atlantic
+ND	552326	Consumption	2012	West North Central
+OH	3655849	Consumption	2012	East North Central
+OK	1561913	Consumption	2012	West South Central
+OR	975044	Consumption	2012	Pacific
+PA	3623997	Consumption	2012	Middle Atlantic
+RI	183879	Consumption	2012	New England
+SC	1558766	Consumption	2012	South Atlantic
+SD	375950	Consumption	2012	West North Central
+TN	2080953	Consumption	2012	East South Central
+TX	11931169	Consumption	2012	West South Central
+UT	790154	Consumption	2012	Mountain
+VT	130412	Consumption	2012	New England
+VA	2343908	Consumption	2012	South Atlantic
+WA	2037127	Consumption	2012	Pacific
+WV	720985	Consumption	2012	South Atlantic
+WI	1721543	Consumption	2012	East North Central
+WY	550182	Consumption	2012	Mountain
+DC	172963	Consumption	2012	South Atlantic
+AL	1433370	Production	2012	East South Central
+AK	1563102	Production	2012	Pacific
+AZ	598039	Production	2012	Mountain
+AR	1472778	Production	2012	West South Central
+CA	2334863	Production	2012	Pacific
+CO	2921385	Production	2012	Mountain
+CT	205073	Production	2012	New England
+DE	3530	Production	2012	South Atlantic
+FL	442188	Production	2012	South Atlantic
+GA	555238	Production	2012	South Atlantic
+HI	20485	Production	2012	Pacific
+ID	154829	Production	2012	Mountain
+IL	2436702	Production	2012	East North Central
+IN	1046014	Production	2012	East North Central
+IA	677875	Production	2012	West North Central
+KS	793080	Production	2012	West North Central
+KY	2391118	Production	2012	East South Central
+LA	3789540	Production	2012	West South Central
+ME	152331	Production	2012	New England
+MD	245197	Production	2012	South Atlantic
+MA	110384	Production	2012	New England
+MI	626107	Production	2012	East North Central
+MN	417674	Production	2012	West North Central
+MS	390246	Production	2012	East South Central
+MO	203118	Production	2012	West North Central
+MT	1008736	Production	2012	Mountain
+NE	357156	Production	2012	West North Central
+NV	60252	Production	2012	Mountain
+NH	129929	Production	2012	New England
+NJ	393682	Production	2012	Middle Atlantic
+NM	2315892	Production	2012	Mountain
+NY	817908	Production	2012	Middle Atlantic
+NC	560887	Production	2012	South Atlantic
+ND	2135154	Production	2012	West North Central
+OH	1067944	Production	2012	East North Central
+OK	2950525	Production	2012	West South Central
+OR	496254	Production	2012	Pacific
+PA	4730336	Production	2012	Middle Atlantic
+RI	2822	Production	2012	New England
+SC	646738	Production	2012	South Atlantic
+SD	248616	Production	2012	West North Central
+TN	468757	Production	2012	East South Central
+TX	14180982	Production	2012	West South Central
+UT	1118599	Production	2012	Mountain
+VT	77979	Production	2012	New England
+VA	1045095	Production	2012	South Atlantic
+WA	1108998	Production	2012	Pacific
+WV	3720223	Production	2012	South Atlantic
+WI	333635	Production	2012	East North Central
+WY	9611304	Production	2012	Mountain
+DC	277	Production	2012	South Atlantic
+AL	1919365	Consumption	2013	East South Central
+AK	621107	Consumption	2013	Pacific
+AZ	1414383	Consumption	2013	Mountain
+AR	1096438	Consumption	2013	West South Central
+CA	7665241	Consumption	2013	Pacific
+CO	1470844	Consumption	2013	Mountain
+CT	754901	Consumption	2013	New England
+DE	273716	Consumption	2013	South Atlantic
+FL	4076406	Consumption	2013	South Atlantic
+GA	2782782	Consumption	2013	South Atlantic
+HI	281329	Consumption	2013	Pacific
+ID	526613	Consumption	2013	Mountain
+IL	3991089	Consumption	2013	East North Central
+IN	2894764	Consumption	2013	East North Central
+IA	1518870	Consumption	2013	West North Central
+KS	1105160	Consumption	2013	West North Central
+KY	1838898	Consumption	2013	East South Central
+LA	4196622	Consumption	2013	West South Central
+ME	409785	Consumption	2013	New England
+MD	1395961	Consumption	2013	South Atlantic
+MA	1428433	Consumption	2013	New England
+MI	2832425	Consumption	2013	East North Central
+MN	1858816	Consumption	2013	West North Central
+MS	1138181	Consumption	2013	East South Central
+MO	1847506	Consumption	2013	West North Central
+MT	405934	Consumption	2013	Mountain
+NE	871815	Consumption	2013	West North Central
+NV	659568	Consumption	2013	Mountain
+NH	304538	Consumption	2013	New England
+NJ	2311685	Consumption	2013	Middle Atlantic
+NM	670257	Consumption	2013	Mountain
+NY	3626150	Consumption	2013	Middle Atlantic
+NC	2530649	Consumption	2013	South Atlantic
+ND	594439	Consumption	2013	West North Central
+OH	3739974	Consumption	2013	East North Central
+OK	1620837	Consumption	2013	West South Central
+OR	991867	Consumption	2013	Pacific
+PA	3826959	Consumption	2013	Middle Atlantic
+RI	199165	Consumption	2013	New England
+SC	1590456	Consumption	2013	South Atlantic
+SD	389619	Consumption	2013	West North Central
+TN	2132508	Consumption	2013	East South Central
+TX	12660976	Consumption	2013	West South Central
+UT	831668	Consumption	2013	Mountain
+VT	137527	Consumption	2013	New England
+VA	2414477	Consumption	2013	South Atlantic
+WA	2036309	Consumption	2013	Pacific
+WV	743612	Consumption	2013	South Atlantic
+WI	1813458	Consumption	2013	East North Central
+WY	539146	Consumption	2013	Mountain
+DC	175560	Consumption	2013	South Atlantic
+AL	1463647	Production	2013	East South Central
+AK	1513859	Production	2013	Pacific
+AZ	594994	Production	2013	Mountain
+AR	1432074	Production	2013	West South Central
+CA	2390424	Production	2013	Pacific
+CO	2838193	Production	2013	Mountain
+CT	207118	Production	2013	New England
+DE	3818	Production	2013	South Atlantic
+FL	542570	Production	2013	South Atlantic
+GA	581082	Production	2013	South Atlantic
+HI	25465	Production	2013	Pacific
+ID	138799	Production	2013	Mountain
+IL	2519993	Production	2013	East North Central
+IN	1106441	Production	2013	East North Central
+IA	730473	Production	2013	West North Central
+KS	830704	Production	2013	West North Central
+KY	2138426	Production	2013	East South Central
+LA	3208044	Production	2013	West South Central
+ME	155380	Production	2013	New England
+MD	248554	Production	2013	South Atlantic
+MA	102521	Production	2013	New England
+MI	654767	Production	2013	East North Central
+MN	405967	Production	2013	West North Central
+MS	410271	Production	2013	East South Central
+MO	191759	Production	2013	West North Central
+MT	1104932	Production	2013	Mountain
+NE	370523	Production	2013	West North Central
+NV	70208	Production	2013	Mountain
+NH	166328	Production	2013	New England
+NJ	403225	Production	2013	Middle Atlantic
+NM	2367423	Production	2013	Mountain
+NY	872500	Production	2013	Middle Atlantic
+NC	606427	Production	2013	South Atlantic
+ND	2634178	Production	2013	West North Central
+OH	1149882	Production	2013	East North Central
+OK	3137443	Production	2013	West South Central
+OR	458848	Production	2013	Pacific
+PA	5873742	Production	2013	Middle Atlantic
+RI	2627	Production	2013	New England
+SC	690644	Production	2013	South Atlantic
+SD	236679	Production	2013	West North Central
+TN	544916	Production	2013	East South Central
+TX	15688922	Production	2013	West South Central
+UT	1122868	Production	2013	Mountain
+VT	84188	Production	2013	New England
+VA	1023009	Production	2013	South Atlantic
+WA	1003330	Production	2013	Pacific
+WV	3809750	Production	2013	South Atlantic
+WI	310413	Production	2013	East North Central
+WY	9233869	Production	2013	Mountain
+DC	323	Production	2013	South Atlantic
+AL	1958221	Consumption	2014	East South Central
+AK	603119	Consumption	2014	Pacific
+AZ	1422590	Consumption	2014	Mountain
+AR	1114409	Consumption	2014	West South Central
+CA	7620082	Consumption	2014	Pacific
+CO	1477177	Consumption	2014	Mountain
+CT	750019	Consumption	2014	New England
+DE	274013	Consumption	2014	South Atlantic
+FL	4121680	Consumption	2014	South Atlantic
+GA	2850990	Consumption	2014	South Atlantic
+HI	281206	Consumption	2014	Pacific
+ID	519935	Consumption	2014	Mountain
+IL	4042313	Consumption	2014	East North Central
+IN	2931630	Consumption	2014	East North Central
+IA	1541900	Consumption	2014	West North Central
+KS	1132354	Consumption	2014	West North Central
+KY	1770741	Consumption	2014	East South Central
+LA	4279443	Consumption	2014	West South Central
+ME	410530	Consumption	2014	New England
+MD	1400614	Consumption	2014	South Atlantic
+MA	1437640	Consumption	2014	New England
+MI	2881550	Consumption	2014	East North Central
+MN	1912065	Consumption	2014	West North Central
+MS	1155549	Consumption	2014	East South Central
+MO	1903839	Consumption	2014	West North Central
+MT	403446	Consumption	2014	Mountain
+NE	864347	Consumption	2014	West North Central
+NV	660256	Consumption	2014	Mountain
+NH	310142	Consumption	2014	New England
+NJ	2340188	Consumption	2014	Middle Atlantic
+NM	679136	Consumption	2014	Mountain
+NY	3742892	Consumption	2014	Middle Atlantic
+NC	2554776	Consumption	2014	South Atlantic
+ND	640095	Consumption	2014	West North Central
+OH	3809648	Consumption	2014	East North Central
+OK	1679856	Consumption	2014	West South Central
+OR	987145	Consumption	2014	Pacific
+PA	3902434	Consumption	2014	Middle Atlantic
+RI	204459	Consumption	2014	New England
+SC	1632085	Consumption	2014	South Atlantic
+SD	391857	Consumption	2014	West North Central
+TN	2194512	Consumption	2014	East South Central
+TX	12899498	Consumption	2014	West South Central
+UT	797995	Consumption	2014	Mountain
+VT	139897	Consumption	2014	New England
+VA	2430205	Consumption	2014	South Atlantic
+WA	2011941	Consumption	2014	Pacific
+WV	752942	Consumption	2014	South Atlantic
+WI	1868867	Consumption	2014	East North Central
+WY	535612	Consumption	2014	Mountain
+DC	178929	Consumption	2014	South Atlantic
+AL	1353725	Production	2014	East South Central
+AK	1475129	Production	2014	Pacific
+AZ	635050	Production	2014	Mountain
+AR	1454325	Production	2014	West South Central
+CA	2413494	Production	2014	Pacific
+CO	3041634	Production	2014	Mountain
+CT	197271	Production	2014	New England
+DE	4189	Production	2014	South Atlantic
+FL	553738	Production	2014	South Atlantic
+GA	597955	Production	2014	South Atlantic
+HI	27166	Production	2014	Pacific
+ID	154936	Production	2014	Mountain
+IL	2683815	Production	2014	East North Central
+IN	1123098	Production	2014	East North Central
+IA	757014	Production	2014	West North Central
+KS	880650	Production	2014	West North Central
+KY	2055121	Production	2014	East South Central
+LA	2852411	Production	2014	West South Central
+ME	151257	Production	2014	New England
+MD	250058	Production	2014	South Atlantic
+MA	124671	Production	2014	New England
+MI	682788	Production	2014	East North Central
+MN	466967	Production	2014	West North Central
+MS	402842	Production	2014	East South Central
+MO	199586	Production	2014	West North Central
+MT	1161804	Production	2014	Mountain
+NE	401699	Production	2014	West North Central
+NV	71140	Production	2014	Mountain
+NH	161033	Production	2014	New England
+NJ	388386	Production	2014	Middle Atlantic
+NM	2514744	Production	2014	Mountain
+NY	871720	Production	2014	Middle Atlantic
+NC	595660	Production	2014	South Atlantic
+ND	3261360	Production	2014	West North Central
+OH	1547368	Production	2014	East North Central
+OK	3572829	Production	2014	West South Central
+OR	479935	Production	2014	Pacific
+PA	7087392	Production	2014	Middle Atlantic
+RI	4304	Production	2014	New England
+SC	675110	Production	2014	South Atlantic
+SD	249789	Production	2014	West North Central
+TN	499501	Production	2014	East South Central
+TX	17597105	Production	2014	West South Central
+UT	1170681	Production	2014	Mountain
+VT	85874	Production	2014	New England
+VA	979780	Production	2014	South Atlantic
+WA	1027404	Production	2014	Pacific
+WV	4154063	Production	2014	South Atlantic
+WI	298603	Production	2014	East North Central
+WY	9361755	Production	2014	Mountain
+DC	360	Production	2014	South Atlantic

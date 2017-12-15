@@ -3,16 +3,16 @@ var margin = {top: 50, right: 80, bottom: 50, left: 100},
       height = 750 - margin.top - margin.bottom;
 
 
-var barsSvg = dimple.newSvg("#graph3",  width + margin.left + margin.right, height + margin.top + margin.bottom);
+var barsSvg = dimple.newSvg("#graph4",  width + margin.left + margin.right, height + margin.top + margin.bottom);
 
 d3.tsv("data/stateYearMetric.tsv", function (data) {
   var barsChart = new dimple.chart(barsSvg, data);
   var barsChartX = barsChart.addMeasureAxis("x", "Total2010");
 
   var gs = graphScroll()
-    .container(d3.select('#container3'))
-    .graph(d3.selectAll('#graph3'))
-    .sections(d3.selectAll('#sections3 > div'))
+    .container(d3.select('#container4'))
+    .graph(d3.selectAll('#graph4'))
+    .sections(d3.selectAll('#sections4 > div'))
     .on('active', function(i){ 
       barsChart.svg.selectAll('*').remove();
       barsChart = new dimple.chart(barsSvg, data);

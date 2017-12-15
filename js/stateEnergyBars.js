@@ -3,15 +3,15 @@ var margin = {top: 100, right: 80, bottom: 50, left: 100},
       height = 750 - margin.top - margin.bottom;
 
 
-var stateEnergyBarsSvg = dimple.newSvg("#graph4",  width + margin.left + margin.right, height + margin.top + margin.bottom);
+var stateEnergyBarsSvg = dimple.newSvg("#graph5",  width + margin.left + margin.right, height + margin.top + margin.bottom);
 
 d3.tsv("data/stateYearEnergy.tsv", function (data) {
   var stateEnergyBarsChart = new dimple.chart(stateEnergyBarsSvg, data);
   var stateEnergyBarsChartX = stateEnergyBarsChart.addPctAxis("x", "C2010");
   var gs = graphScroll()
-    .container(d3.select('#container4'))
-    .graph(d3.selectAll('#graph4'))
-    .sections(d3.selectAll('#sections4 > div'))
+    .container(d3.select('#container5'))
+    .graph(d3.selectAll('#graph5'))
+    .sections(d3.selectAll('#sections5 > div'))
     .on('active', function(i){ 
       stateEnergyBarsChart.svg.selectAll('*').remove();
       stateEnergyBarsChart = new dimple.chart(stateEnergyBarsSvg, data);

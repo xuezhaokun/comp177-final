@@ -35,7 +35,7 @@ var parallelLine = d3.svg.line()
 var parallelYAxis = d3.svg.axis()
     .orient("left");
 
-var parallelSvg = d3.select("#graph5").append("svg")
+var parallelSvg = d3.select("#graph6").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
   .append("g")
@@ -106,9 +106,9 @@ d3.tsv("data/parallel_data.tsv", function(error, data) {
     this.parentNode.appendChild(this);
   }
   var gs = graphScroll()
-    .container(d3.select('#container5'))
-    .graph(d3.selectAll('#graph5'))
-    .sections(d3.selectAll('#sections5 > div'))
+    .container(d3.select('#container6'))
+    .graph(d3.selectAll('#graph6'))
+    .sections(d3.selectAll('#sections6 > div'))
     .on('active', function(i){ 
       console.log(i + 'th section active') 
   });

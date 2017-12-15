@@ -2,7 +2,7 @@ var margin = {top: 100, right: 80, bottom: 100, left: 100},
       width = 800 - margin.left - margin.right,
       height = 650 - margin.top - margin.bottom;
 
-var lineBarSvg = dimple.newSvg("#graph6",  width + margin.left + margin.right, height + margin.top + margin.bottom);
+var lineBarSvg = dimple.newSvg("#graph7",  width + margin.left + margin.right, height + margin.top + margin.bottom);
 
 d3.tsv("data/lineBar.tsv", function (lineBarData) {
       var lineBarChart = new dimple.chart(lineBarSvg, lineBarData);
@@ -29,9 +29,9 @@ d3.tsv("data/lineBar.tsv", function (lineBarData) {
 
       lineBarY1.tickFormat = ",d";
       var gs = graphScroll()
-          .container(d3.select('#container6'))
-          .graph(d3.selectAll('#graph6'))
-          .sections(d3.selectAll('#sections6 > div'))
+          .container(d3.select('#container7'))
+          .graph(d3.selectAll('#graph7'))
+          .sections(d3.selectAll('#sections7 > div'))
           .on('active', function(i){ 
             console.log(i + 'th section active') 
       });
